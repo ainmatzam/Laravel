@@ -7,5 +7,5 @@ In this bootcamp, it provide a walkthrough to build a modern Laravel application
 
 In Chirper, users are able to add short messages (chirp), edit and delete their own chirps on the blog. Aside from that, this bootcamp included an email notification where when one user chirp, the other users will get the email via MailHog. 
 
-As for the deployment of the application, Laravel Bootcamp teaches on how to deploy in the cloud server using Laravel Forge or Laravel Vapor.
+
 
